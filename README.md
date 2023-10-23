@@ -2,6 +2,21 @@
 I'm a student at Washington and Lee University interested in Machine Learning and deepening my knowledge of Computer Science!
 
 
+🔭 I’m currently a student at Washington and Lee University
+
+👨‍💻 I'm proficient with Python and Java
+
+🌱 I’m currently Working on Personal Projects
+
+🌱 I’m currently learning Machine Learning Independetly
+
+🪨 I'm a passionate Rock-Climber
+
+🌎 I've visted London, Ireland, and Denmark
+
+📫 How to reach me mtholden17@gmail.com
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mark Holden) 
 
