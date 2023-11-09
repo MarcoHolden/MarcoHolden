@@ -12,7 +12,7 @@ I'm a student at Washington and Lee University interested in Machine Learning an
 
 🪨 I'm a passionate Rock-Climber
 
-🌎 I've visted London, Ireland, and Denmark
+🌎 I've visited London, Ireland, and Denmark
 
 📫 How to reach me mtholden17@gmail.com
 
