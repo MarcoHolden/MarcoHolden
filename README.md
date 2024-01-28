@@ -1,10 +1,12 @@
 # 💫 About Me:
-I'm a student at Washington and Lee University interested in Machine Learning and deepening my knowledge of Computer Science!
+I'm a student at Washington and Lee University interested in Machine Learning and deepening my knowledge of Computer Science! I am currently working on some personal projects such as my own website which will use the fundamentals of twitter and modify functionality as well as some core principles. I also am currently planning out a project that will involve water security and sustainablility.  
 
 
 🔭 I’m currently a student at Washington and Lee University
 
 👨‍💻 I'm proficient with Python and Java
+
+👨‍💻 I'm knowledgable in C and Ruby
 
 🌱 I’m currently Working on Personal Projects
 
