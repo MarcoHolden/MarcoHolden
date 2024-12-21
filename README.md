@@ -1,26 +1,33 @@
-# 💫 About Me:
-I'm a student at Washington and Lee University interested in Machine Learning and deepening my knowledge of Computer Science! I am currently working on some personal projects such as my own website which will use the fundamentals of twitter and modify functionality as well as some core principles. I also am currently planning out a project that will involve water security and sustainablility.  
+# About Me 👋
 
+Hello! I'm **Mark T. Holden**, a passionate and driven Computer Science student at Washington and Lee University, graduating in May 2025. My work revolves around leveraging technology to improve accessibility, inclusivity, and education through innovative solutions.
 
-🔭 I’m currently a student at Washington and Lee University
+## 🎯 Interests
+- **Human-Computer Interaction (HCI)**: Designing inclusive and accessible user experiences.
+- **AI & Educational Technologies**: Exploring the potential of artificial intelligence and immersive tools like VR to transform learning.
+- **Computing for Social Good**: Developing applications that make a tangible, positive impact on communities.
 
-👨‍💻 I'm proficient with Python and Java
+## 🛠️ Skills
+- **Programming**: Python, Java, JavaScript, C, MERN Stack, HTML/CSS, and more.
+- **Frameworks & Tools**: React.js, Docker, PyTorch, Blender, Figma, and Git.
+- **Databases**: MongoDB, PostgreSQL, MySQL.
 
-👨‍💻 I'm knowledgable in C and Ruby
+## 🚀 Projects
+- **[EyeScreen](#)**: A multimodal accessibility tool enabling amputees to navigate digital interfaces using facial gestures.
+- **[GenTech Website](#)**: Led a team of 8 in building an engaging website using a MERN stack and Docker.
+- **[Florence As It Was](#)**: Recreating historical Florence in VR to make history immersive and interactive.
 
-🌱 I’m currently Working on Personal Projects
+## 🌟 Leadership
+As President of **GenTech**, I’ve grown the membership to over 100+ students, secured increased funding, and provided valuable resources for underrepresented groups in tech. I’m passionate about building communities that empower others.
 
-🌱 I’m currently learning Machine Learning Independetly
+## 🌱 Advocacy with XQ
+During my time as a **Student Advisor for XQ**, I collaborated with peers to brainstorm innovative solutions to challenges in the education system. I played a key role in securing a $500,000 XQ Grant for my high school and participated as a keynote speaker at the Aurora Institute Symposium. This experience solidified my commitment to using technology and advocacy to improve education.
 
-🪨 I'm a passionate Rock-Climber
+## 🌐 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/profholden)
+- [GitHub](https://github.com/MarcoHolden)  
 
-🌎 I've visited London, Ireland, and Denmark
-
-📫 How to reach me mtholden17@gmail.com
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mark Holden) 
+I’m always excited to collaborate on projects that push boundaries and bring meaningful change. Let’s create something amazing together!
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
